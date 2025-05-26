@@ -1,7 +1,5 @@
 ## Hi there 👋
-<img align='right'
-src='http://octodex.github.com/images/pythocat.png'
-width='200px'>
+![Enthusiast](https://user-images.githubusercontent.com/SEUUSUARIO/1000002437.jpg
 git add images/gatinho.gif
 git commit -m "Adiciona gif de gatinho"
 git push
