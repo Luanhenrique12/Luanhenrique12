@@ -1,7 +1,6 @@
 ## Hi there 👋
 <img aling='right'
-scr='https://istoedinheiro.com.br/neymar-segue-como-atacante-mais-caro-do-futebol-e-unico-brasileiro-no-top-10"
-
+scr=imgs/fyhuepwwaaegqtd-1-e1661540310621
 <!--
 **Luanhenrique12/Luanhenrique12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
