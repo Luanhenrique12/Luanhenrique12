@@ -1,6 +1,7 @@
 ## Hi there 👋
 <img align='right'
 src='http://octodex.github.com/images/pythocat.png'
+![Gatinho fofo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 *Luanhenrique12/Luanhenrique12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
